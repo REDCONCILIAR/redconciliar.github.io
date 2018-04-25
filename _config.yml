@@ -1,13 +1,13 @@
 
-title: My Resume # your title
-url: 'http://junlulocky.com'
-baseurl: '/online-cv' #change it according to your repository name
+title: REDCONCILIAR # your title
+url: 'http://www.redconciliar.com'
+baseurl: '' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-location: San Francisco , CA
+yourname: RedConciliar  ## put your name
+location: San Carlos, Antioquia
 
 
 ## Social Profiles
